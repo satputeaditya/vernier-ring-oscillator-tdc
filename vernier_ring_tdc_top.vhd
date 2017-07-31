@@ -1,7 +1,7 @@
 -- vernier_ring_tdc_top.vhd
 
 --**********************************************************************
--- Program to detect if STOP pulse is leading and lagging edge wrt START
+-- HDL to detect if STOP pulse is leading and lagging edge wrt START
 --**********************************************************************
 
 library ieee ;
